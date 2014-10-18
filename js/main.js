@@ -17,7 +17,6 @@
 		// 3 = Interactive
 		// 4 = Complete
 
-
 			xhr.onreadystatechange=function()
 			  {
 			  if (xhr.readyState===4 && xhr.status===200){
